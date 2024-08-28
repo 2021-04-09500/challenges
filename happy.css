@@ -1,0 +1,13 @@
+body{
+    padding: 50px;
+}
+.input{
+    line-height: 70px;
+}
+input[type="text"] {
+    width: 200px; /* Sets the width */
+    height: 40px; /* Sets the height */
+    border: 2px solid #ccc; /* Sets the border */
+    border-radius: 10px;
+    background-color: lightblue; 
+}
